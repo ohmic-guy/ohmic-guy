@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:003300,60:00661a,100:00FF41&height=280&section=header&text=OHMIC-GUY&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=45&stroke=00FF41&strokeWidth=2&desc=Ommkar%20Ankit%20Rout%20%E2%80%94%20ML%20Dev%20%7C%20Ethical%20Hacker%20%7C%20DSA%20Freak%20%7C%20Arch%20Linux%20Enjoyer&descAlignY=65&descSize=16&descColor=00cc33" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0a0a,30:003300,60:00661a,100:00FF41&height=200&section=header&text=OHMIC-GUY&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=55&stroke=00FF41&strokeWidth=2&desc=Ommkar%20Ankit%20Rout%20%E2%80%94%20ML%20Dev%20%7C%20Ethical%20Hacker%20%7C%20DSA%20Freak%20%7C%20Arch%20Linux%20Enjoyer&descAlignY=75&descSize=16&descColor=00cc33" />
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
@@ -84,11 +84,13 @@ print(OmmkarAnkitRout())
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Arsenal
+## ⚡ &nbsp; Arsenal
 
 <div align="center">
 
@@ -105,25 +107,25 @@ print(OmmkarAnkitRout())
 
 **⟨ ML / Data ⟩**
 
-<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark&perline=3" />
+<br/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-000?style=flat-square&logo=scikitlearn&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=00FF41" />
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00FF41)
 
 </td>
 <td align="center" width="33%">
 
 **⟨ Security & OS ⟩**
 
-<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Arch_Linux-000?style=flat-square&logo=archlinux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kali_Linux-000?style=flat-square&logo=kalilinux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=burpsuite&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Nmap-000?style=flat-square&logo=nmap&logoColor=00FF41" />
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00FF41)
 
 </td>
 </tr>
@@ -133,7 +135,7 @@ print(OmmkarAnkitRout())
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
@@ -167,7 +169,7 @@ print(OmmkarAnkitRout())
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
@@ -207,7 +209,7 @@ print(OmmkarAnkitRout())
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
@@ -221,7 +223,7 @@ print(OmmkarAnkitRout())
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ohmic-guy&theme=dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=336600&currStreakNum=00FF41&sideNums=00FF41&border=00FF41&border_radius=12" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=ohmic-guy&theme=dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=336600&currStreakNum=00FF41&sideNums=00FF41&border=00FF41&border_radius=12" width="55%"/>
 
 <br/><br/>
 
@@ -229,7 +231,7 @@ print(OmmkarAnkitRout())
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohmic-guy&bg_color=0d0d0d&color=00FF41&line=00FF41&point=00ff41&area=true&area_color=003300&hide_border=false&border_color=00FF41&radius=12&custom_title=Contribution%20Graph%20—%20ohmic-guy" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohmic-guy&bg_color=0d0d0d&color=00FF41&line=00FF41&point=00ff41&area=true&area_color=003300&hide_border=false&border_color=00FF41&radius=12&custom_title=Contribution%20Graph%20%E2%80%94%20ohmic-guy" width="96%"/>
 
 <br/><br/>
 
@@ -243,7 +245,7 @@ print(OmmkarAnkitRout())
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2" />
 
 <br/>
 
@@ -253,7 +255,7 @@ print(OmmkarAnkitRout())
 $ ping ohmic-guy --verbose
 
 PING ohmic-guy (192.168.∞.1)
-64 bytes: icmp_seq=1 ttl=64 time=0.001ms   ✓ response faster than your IDS can flag it
+64 bytes: icmp_seq=1 ttl=64 time=0.001ms   ✓ faster than your IDS can flag it
 64 bytes: icmp_seq=2 ttl=64 time=0.001ms   ✓ packet_loss=0%  (I don't miss)
 64 bytes: icmp_seq=3 ttl=64 time=0.001ms   ✓ os=Arch Linux  # btw
 64 bytes: icmp_seq=4 ttl=64 time=0.001ms   ✓ status=ONLINE — probably on pacman -Syu
@@ -275,4 +277,4 @@ Connection established. You may proceed. 🟢
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:003300,100:00FF41&height=140&section=footer&text=I+use+Arch+btw...&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=70&stroke=00FF41&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:003300,100:00FF41&height=140&section=footer&text=I+use+Arch+btw...&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=70" />
