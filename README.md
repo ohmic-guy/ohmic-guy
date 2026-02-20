@@ -1,99 +1,278 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ommkar+%F0%9F%91%BE;ML+Developer+%7C+Ethical+Hacker;I+train+models+%26+break+systems.;%5B+Access+Granted+%5D" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:003300,60:00661a,100:00FF41&height=280&section=header&text=OHMIC-GUY&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=45&stroke=00FF41&strokeWidth=2&desc=Ommkar%20Ankit%20Rout%20%E2%80%94%20ML%20Dev%20%7C%20Ethical%20Hacker%20%7C%20DSA%20Freak%20%7C%20Arch%20Linux%20Enjoyer&descAlignY=65&descSize=16&descColor=00cc33" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ohmic-guy&color=00ff41&style=flat-square&label=VISITORS" />
-  <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat-square&logo=statuspage" />
-  <img src="https://img.shields.io/badge/CLEARANCE-Ethical-00ff41?style=flat-square&logo=hackthebox" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&multiline=false&width=850&lines=%E2%96%88+SYSTEM+BOOT+%E2%96%88+LOADING+ohmic-guy...;%F0%9F%A7%A0+ML+Developer+%7C+%F0%9F%92%80+Ethical+Hacker+%7C+%F0%9F%A7%A9+DSA+Freak;%F0%9F%8F%86+3x+National+Hackathon+Winner+%E2%80%94+Not+luck.+Skill.;I+train+models.+I+break+systems.+I+solve+at+2am.;btw+I+use+Arch+%F0%9F%90%A7+%E2%80%94+yes+I+will+mention+it+every+time.;%5B+%E2%9C%94+ACCESS+GRANTED+%5D+Welcome+to+my+terminal." />
+
+<br/>
+
+<a href="https://the-ohmic-codex.vercel.app"><img src="https://img.shields.io/badge/◈_PORTFOLIO-the--ohmic--codex-00FF41?style=for-the-badge&logo=vercel&logoColor=000&labelColor=00FF41&color=000" /></a>
+&nbsp;
+<a href="https://instagram.com/sudo_why"><img src="https://img.shields.io/badge/◈_INSTAGRAM-sudo__why-00FF41?style=for-the-badge&logo=instagram&logoColor=000&labelColor=00FF41&color=000" /></a>
+&nbsp;
+<a href="https://github.com/ohmic-guy/Mnemosyne"><img src="https://img.shields.io/badge/◈_DSA_REPO-Mnemosyne-00FF41?style=for-the-badge&logo=github&logoColor=000&labelColor=00FF41&color=000" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ohmic-guy&color=00FF41&style=for-the-badge&label=◈+VISITORS" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+╔═══════════════════════════════════════╗
+║         AGENT FILE — CLASSIFIED       ║
+╠═══════════════════════════════════════╣
+║                                       ║
+║  AGENT   :  Ommkar Ankit Rout         ║
+║  ALIAS   :  ohmic-guy                 ║
+║  YEAR    :  B.Tech — Year 2           ║
+║  OS      :  Arch Linux  (btw)         ║
+║  SHELL   :  zsh (obviously)           ║
+║                                       ║
+╠═══════════════════════════════════════╣
+║  ROLES   :  ML Developer       🧠     ║
+║             Ethical Hacker     💀     ║
+║             DSA Freak          🧩     ║
+╠═══════════════════════════════════════╣
+║  🏆 3x National Hackathon Winner      ║
+╠═══════════════════════════════════════╣
+║  MISSION :  Weaponize AI.             ║
+║             Secure the Future.        ║
+║             Crack every problem.      ║
+╚═══════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" valign="top">
 
 ```python
+#!/usr/bin/env python3
+
 class OmmkarAnkitRout:
-    def __init__(self):
-        self.name       = "Ommkar Ankit Rout"
-        self.alias      = "ohmic-guy"
-        self.role       = ["ML Developer", "Ethical Hacker"]
-        self.year       = "2nd Year B.Tech"
-        self.mission    = "AI-Security — where neural nets meet exploit kits"
-        self.status     = "[ ONLINE ] — currently breaking things responsibly"
 
-    def say_hi(self):
-        print("I train models by day. I hack systems by night. On weekends, I do both.")
+    alias    = "ohmic-guy"
+    os       = "Arch Linux  # btw"
+    roles    = [
+        "ML Developer 🧠",
+        "Ethical Hacker 💀",
+        "DSA Freak 🧩",
+    ]
+    trophies = "3x 🏆 National Hackathon Winner"
+    dsa_repo = "github.com/ohmic-guy/Mnemosyne"
+    focus    = "AI × Security"
 
-me = OmmkarAnkitRout()
-me.say_hi()
+    def __repr__(self):
+        return (
+            "I train models. "
+            "I break systems. "
+            "I grind DSA at 2am. "
+            "I use Arch btw."
+        )
+
+print(OmmkarAnkitRout())
 ```
 
----
+</td>
+</tr>
+</table>
 
-## ⚡ Arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Languages -->
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00FF41)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00FF41)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Arsenal
 
-**ML Stack**
+<div align="center">
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=00FF41)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=00FF41)
+<table>
+<tr>
+<td align="center" width="33%">
 
-**Security Tools**
+**⟨ Languages ⟩**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-000?style=for-the-badge&logo=nmap&logoColor=00FF41)
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
 
----
+</td>
+<td align="center" width="33%">
 
-## 🛰️ Current Mission
+**⟨ ML / Data ⟩**
+
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&theme=dark&perline=3" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-000?style=flat-square&logo=scikitlearn&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=00FF41" />
+
+</td>
+<td align="center" width="33%">
+
+**⟨ Security & OS ⟩**
+
+<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Arch_Linux-000?style=flat-square&logo=archlinux&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kali_Linux-000?style=flat-square&logo=kalilinux&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Burp_Suite-000?style=flat-square&logo=burpsuite&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Nmap-000?style=flat-square&logo=nmap&logoColor=00FF41" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 💻 &nbsp; neofetch
+
+<div align="center">
+
+```
+                   -`                    ┌─────────────────────────────────────────┐
+                  .o+`                   │  ohmic-guy @ arch-battlestation          │
+                 `ooo/                   ├─────────────────────────────────────────┤
+                `+oooo:                  │  OS       Arch Linux          (btw)      │
+               `+oooooo:                 │  Kernel   self-compiled, obviously       │
+               -+oooooo+:               │  Shell    zsh  ❯ _                       │
+             `/:-:++oooo+:               │  WM       whatever I riced this week     │
+            `/++++/+++++++:              │  Theme    Matrix green. always.          │
+           `/++++++++++++++:             │  Terminal ghostty / kitty / yes          │
+          `/+++ooooooooooooo/`           ├─────────────────────────────────────────┤
+         ./ooosssso++osssssso+`          │  Roles    ML Dev ∣ Hacker ∣ DSA Freak   │
+        .oossssso-    /ossssss+`         │  Trophy   3x 🏆 National Hackathon Win  │
+       -osssssso.      :ssssssso.        │  Focus    AI × Security                  │
+      :osssssss/        osssso+++.       │  DSA      github/ohmic-guy/Mnemosyne     │
+     /ossssssss/        +ssssooo/-       ├─────────────────────────────────────────┤
+   `/ossssso+/:-        -:/+osssso+-     │  CPU      overclocked & overcaffeinated  │
+  `+sso+:-`                 `.-/+oso:   │  RAM      14,997 MiB / 16,384 MiB       │
+ `++:.                           `-/+/  │  Uptime   since the last pacman -Syu     │
+ .`                                 `/  └─────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 &nbsp; Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🥇</td>
+<td><b>3× National Level Hackathon Winner</b></td>
+<td><i>Competed nationally. Won nationally. Three times.</i></td>
+</tr>
+<tr>
+<td align="center">💀</td>
+<td><b>Ethical Hacker</b></td>
+<td><i>I find the holes before the bad guys do.</i></td>
+</tr>
+<tr>
+<td align="center">🧠</td>
+<td><b>ML Developer</b></td>
+<td><i>Teaching machines to think. AI × Security is the endgame.</i></td>
+</tr>
+<tr>
+<td align="center">🧩</td>
+<td><b>DSA Freak</b></td>
+<td><i><a href="https://github.com/ohmic-guy/Mnemosyne">Mnemosyne</a> — my personal DSA grimoire. Check it.</i></td>
+</tr>
+<tr>
+<td align="center">🐧</td>
+<td><b>Arch Linux User</b></td>
+<td><i>I use Arch btw. Yes. Every. Single. Time.</i></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ohmic-guy&show_icons=true&theme=merko&bg_color=0d0d0d&title_color=00FF41&text_color=00cc33&icon_color=00FF41&border_color=00FF41&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmic-guy&layout=donut&theme=merko&bg_color=0d0d0d&title_color=00FF41&text_color=00cc33&border_color=00FF41&border_radius=12&langs_count=6" height="185"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ohmic-guy&theme=dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00cc33&dates=336600&currStreakNum=00FF41&sideNums=00FF41&border=00FF41&border_radius=12" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ohmic-guy&theme=matrix&no-frame=false&margin-w=8&column=7&no-bg=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohmic-guy&bg_color=0d0d0d&color=00FF41&line=00FF41&point=00ff41&area=true&area_color=003300&hide_border=false&border_color=00FF41&radius=12&custom_title=Contribution%20Graph%20—%20ohmic-guy" width="96%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
 
 ```bash
-$ cat /var/log/ommkar/current_ops.log
+$ ping ohmic-guy --verbose
 
-[*] Pursuing B.Tech — Year 2 of 4
-[*] Researching the intersection of AI & Cybersecurity
-[*] Target: Build systems smart enough to defend themselves
-[*] Side quest: Not failing exams while doing all of the above
-[+] Status: In progress...
+PING ohmic-guy (192.168.∞.1)
+64 bytes: icmp_seq=1 ttl=64 time=0.001ms   ✓ response faster than your IDS can flag it
+64 bytes: icmp_seq=2 ttl=64 time=0.001ms   ✓ packet_loss=0%  (I don't miss)
+64 bytes: icmp_seq=3 ttl=64 time=0.001ms   ✓ os=Arch Linux  # btw
+64 bytes: icmp_seq=4 ttl=64 time=0.001ms   ✓ status=ONLINE — probably on pacman -Syu
+
+--- ohmic-guy ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss
+Connection established. You may proceed. 🟢
 ```
 
----
+<br/>
 
-## 📡 GitHub Intel
+<a href="https://the-ohmic-codex.vercel.app"><img src="https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
+&nbsp;
+<a href="https://instagram.com/sudo_why"><img src="https://img.shields.io/badge/◈_Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41" /></a>
+&nbsp;
+<a href="https://github.com/ohmic-guy/Mnemosyne"><img src="https://img.shields.io/badge/◈_Mnemosyne-000000?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohmic-guy&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmic-guy&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41" height="165" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ohmic-guy&theme=dark&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41&sideNums=00FF41&border=00FF41" />
-</p>
+<br/>
 
----
-
-## 🌐 Find Me In The Wild
-
-<p align="center">
-  <a href="https://the-ohmic-codex.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00FF41&label=the-ohmic-codex" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sudo_why" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF41&label=sudo_why" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%E2%80%94+Kali+Linux+motto;%5B+EOF+%5D" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:003300,100:00FF41&height=140&section=footer&text=I+use+Arch+btw...&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=70&stroke=00FF41&strokeWidth=1" />
